@@ -14,7 +14,7 @@ class ExampleSpec extends Spec with BeforeAndAfter {
 
   describe("A Stack") {
     
-    ignore("just fails") {
+    ignore("it just fails") {
       fail()
     }
     

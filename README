@@ -1,9 +1,9 @@
 == Scala MDX parser ==
 
 This project uses the Scala Combinator Parsers to provide
-an MDX Parser for use on the JVM.
+an Parser for use on the JVM.
 
 The project can be built using sbt, see https://github.com/harrah/xsbt/wiki
 
-MDX BNF can be found here:
+BNF can be found here:
 http://msdn.microsoft.com/en-us/library/windows/desktop/ms721196(v=vs.85).aspx
