@@ -1,4 +1,4 @@
-== Scala MDX parser ==
+== Scala parser ==
 
 This project uses the Scala Combinator Parsers to provide
 an Parser for use on the JVM.
